@@ -6,8 +6,8 @@ As a software engineer and computer science student pursuing my bachelor's degre
 
 * 📫  You can contact me at [abdelrahman.m.taymour@gmail.com](mailto:abdelrahman.m.taymour@gmail.com)
 * 🔭 I’m currently working on [Shortly](https://github.com/AbdelrahmanTaymour/Shortly)
-* 🌱 I’m currently learning **Microservices**
-* 🤝  I'm open to collaborating on **Microservices project**
+* 🌱 I’m currently learning Front-End
+* 🤝  I'm open to collaborating on scalable projects
 * 🌍  I'm based in Egypt
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmantaymour&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmantaymour" /> </p>
